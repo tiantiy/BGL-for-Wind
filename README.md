@@ -6,11 +6,17 @@ Lindley (BGL) distribution.
 
 ## Data
 The preprocessed wind speed data is provided on this GitHub page. The first two columns are time. The third column is the wind speed at 2 meters in height, the fourth for 5 meters, the fifth for 10 meters, the sixth for 20 meters, the seventh for 50 meters, and the last for 80 meters. 
+```
+M2_wind_spead_2010_2020.csv
+```
 
 The original wind speed data can be downloaded at [M2 Meteorology Tower Dataset](https://midcdmz.nrel.gov/apps/sitehome.pl?site=NWTC) (accessed 05-March-2025)
 
 ## Code
 The R code is provided on this GitHub page. 
+```
+BGL_for_WindData.R
+```
 
 ## Citation
 To cite the original [BGL method paper](https://www.tandfonline.com/doi/abs/10.1080/00949655.2014.917308):
