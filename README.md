@@ -1,4 +1,5 @@
-# Beta-Generalized Lindley (BGL) Distribution: A Novel Probability Model for Wind Speed
+# Beta-Generalized Lindley (BGL) Distribution: 
+# A Novel Probability Model for Wind Speed
 
 ## Introduction
 In this work, we introduce a novel four-parameter distribution for wind speed, which outperforms other reference distributions and is known as the beta-generalized
@@ -26,4 +27,5 @@ To cite our [BGL for wind speed paper](https://arXiv.):
 Tiantian Yang, Dongwei Chen.
 Beta-Generalized Lindley Distribution: A Novel Probability Model for Wind Speed."
 ```
-
+## Contact  
+Feel free to contact us: Tiantian Yang (tyang AT uidao DOT edu) and Dongwei Chen (dongwei dot chen AT colostate DOT edu)
