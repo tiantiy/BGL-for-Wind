@@ -33,4 +33,4 @@ Tiantian Yang, Dongwei Chen.
 Beta-Generalized Lindley Distribution: A Novel Probability Model for Wind Speed."
 ```
 ## Contact  
-Tiantian Yang (tyang@uidao.edu) and Dongwei Chen (dongwei.chen@colostate.edu)
+Tiantian Yang (tyang@uidaho.edu) and Dongwei Chen (dongwei.chen@colostate.edu)
