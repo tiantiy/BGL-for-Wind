@@ -1,27 +1,29 @@
 # Beta-Generalized Lindley (BGL) Distribution: A Novel Probability Model for Wind Speed
-The preprocessed wind speed data is provided on this GitHub page. The first two columns are time. The third column is wind speed at 2 meters height, and the fourth for 5 meters, the fifth for 10 meters, the sixth for 20 meters, the seventh for 50 meters, and the last for 80 meters. 
 
-The original wind speed data can be downloaded at 
-@misc{M2data,
- author = {Jager, David and Andreas, Afshin},
-  title = {M2 Meteorology Tower Dataset},
-  howpublished = "\url{https://midcdmz.nrel.gov/apps/sitehome.pl?site=NWTC}",
-  note = "[Online; accessed 05-March-2025]"
-}
+## Introduction
+In this work, we introduce a novel four-parameter distribution for wind speed, which outperforms other reference distributions and is known as the beta-generalized
+Lindley (BGL) distribution. 
 
+## Data
+The preprocessed wind speed data is provided on this GitHub page. The first two columns are time. The third column is the wind speed at 2 meters in height, the fourth for 5 meters, the fifth for 10 meters, the sixth for 20 meters, the seventh for 50 meters, and the last for 80 meters. 
 
-To cite the origial BGL paper:
-@article{oluyede2015new,
-  title={A new class of generalized Lindley distributions with applications},
-  author={Oluyede, Broderick O and Yang, Tiantian},
-  journal={Journal of Statistical Computation and Simulation},
-  volume={85},
-  number={10},
-  pages={2072--2100},
-  year={2015},
-  publisher={Taylor \& Francis}
-}
+The original wind speed data can be downloaded at [M2 Meteorology Tower Dataset](https://midcdmz.nrel.gov/apps/sitehome.pl?site=NWTC) (accessed 05-March-2025)
 
-To cite our BGL for wind speed data paper: 
+## Code
+The R code is provided on this GitHub page. 
 
+## Citation
+To cite the original [BGL method paper](https://www.tandfonline.com/doi/abs/10.1080/00949655.2014.917308):
+
+```
+Broderick Oluyede, Tiantian Yang.
+"A new class of generalized Lindley distributions with applications."
+Journal of Statistical Computation and Simulation 85 (10), 2072–2100, 2015
+```
+
+To cite our [BGL for wind speed paper](https://arXiv.): 
+```
+Tiantian Yang, Dongwei Chen.
+Beta-Generalized Lindley Distribution: A Novel Probability Model for Wind Speed."
+```
 
