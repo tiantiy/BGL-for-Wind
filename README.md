@@ -27,7 +27,7 @@ Broderick Oluyede, Tiantian Yang.
 Journal of Statistical Computation and Simulation 85 (10), 2072–2100, 2015
 ```
 
-To cite our [BGL for wind speed paper]([https://arXiv.](https://arxiv.org/abs/2503.09912)): 
+To cite our [BGL for wind speed paper]([https://arXiv.](https://arxiv.org/abs/2503.09912): 
 ```
 Tiantian Yang, Dongwei Chen.
 Beta-Generalized Lindley Distribution: A Novel Probability Model for Wind Speed."
