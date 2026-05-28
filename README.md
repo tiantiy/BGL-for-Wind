@@ -1,8 +1,7 @@
 # Beta-Generalized Lindley (BGL) Distribution: A Novel Probability Model for Wind Speed
 
 ## Introduction
-In this work, we introduce a novel four-parameter distribution for wind speed, which outperforms other reference distributions and is known as the beta-generalized
-Lindley (BGL) distribution. 
+In this work, we introduce a novel four-parameter distribution for wind speed, which outperforms other reference distributions and is known as the beta-generalized Lindley (BGL) distribution. 
 
 ## Data
 The preprocessed wind speed data is provided on this GitHub page. The first two columns are time. The third column is the wind speed at 2 meters in height, the fourth for 5 meters, the fifth for 10 meters, the sixth for 20 meters, the seventh for 50 meters, and the last for 80 meters. 
@@ -19,19 +18,15 @@ BGL_for_WindData.R
 ```
 
 ## Citation
-To cite the original [BGL method paper](https://www.tandfonline.com/doi/abs/10.1080/00949655.2014.917308):
+To cite the original [BGL method paper]([https://doi.org/10.1080/00949655.2014.917308](https://doi.org/10.1080/00949655.2014.917308)):
 
 ```
-Broderick Oluyede, Tiantian Yang.
-"A new class of generalized Lindley distributions with applications."
-Journal of Statistical Computation and Simulation 85 (10), 2072–2100, 2015
+Oluyede, B. O., & Yang, T. (2015). A new class of generalized Lindley distributions with applications. *Journal of Statistical Computation and Simulation*, 85(10), 2072–2100. https://doi.org/10.1080/00949655.2014.917308
 ```
 
-To cite our [BGL for wind speed paper](https://arxiv.org/abs/2503.09912): 
+To cite our [BGL for wind speed paper]([[https://arxiv.org/abs/2503.09912](https://doi.org/10.1016/j.renene.2025.124216)](https://doi.org/10.1016/j.renene.2025.124216)): 
 ```
-Tiantian Yang, Dongwei Chen.
-Beta-Generalized Lindley Distribution: A Novel Probability Model for Wind Speed."
-arXiv:2503.09912
+Yang, T., & Chen, D. (2026). Beta-generalized Lindley distribution: A novel probability model for wind speed. *Renewable Energy*, 256, 124216. https://doi.org/10.1016/j.renene.2025.124216
 ```
 ## Contact  
 Tiantian Yang (tyang@uidaho.edu) and Dongwei Chen (dongwei.chen@colostate.edu)
