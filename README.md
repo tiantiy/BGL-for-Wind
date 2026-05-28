@@ -27,6 +27,7 @@ Oluyede, B. O., & Yang, T. (2015). A new class of generalized Lindley distributi
 Paper link: [https://doi.org/10.1080/00949655.2014.917308](https://doi.org/10.1080/00949655.2014.917308) 
 
 
+
 * To cite our [BGL for wind speed paper](https://doi.org/10.1016/j.renene.2025.124216): 
 ```
 Yang, T., & Chen, D. (2026). Beta-generalized Lindley distribution: A novel probability model for wind speed. *Renewable Energy*, 256, 124216. https://doi.org/10.1016/j.renene.2025.124216
@@ -37,4 +38,6 @@ Preprint: [https://arxiv.org/abs/2503.09912](https://arxiv.org/abs/2503.09912)
 
 ## Contact  
 Tiantian Yang (tyang@uidaho.edu) 
+
+
 Dongwei Chen (dongwei.chen@colostate.edu)
