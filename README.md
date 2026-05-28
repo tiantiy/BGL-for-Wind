@@ -24,6 +24,8 @@ To cite the original [BGL distribution method paper](https://doi.org/10.1080/009
 ```
 Oluyede, B. O., & Yang, T. (2015). A new class of generalized Lindley distributions with applications. *Journal of Statistical Computation and Simulation*, 85(10), 2072–2100. https://doi.org/10.1080/00949655.2014.917308
 ```
+Paper link: [https://doi.org/10.1080/00949655.2014.917308](https://doi.org/10.1080/00949655.2014.917308)
+
 
 To cite our [BGL for wind speed paper](https://doi.org/10.1016/j.renene.2025.124216): 
 ```
@@ -31,6 +33,7 @@ Yang, T., & Chen, D. (2026). Beta-generalized Lindley distribution: A novel prob
 ```
 Paper link: [https://doi.org/10.1016/j.renene.2025.124216](https://doi.org/10.1016/j.renene.2025.124216)
 Preprint: [https://arxiv.org/abs/2503.09912](https://arxiv.org/abs/2503.09912)
+
 
 ## Contact  
 Tiantian Yang (tyang@uidaho.edu) and Dongwei Chen (dongwei.chen@colostate.edu)
