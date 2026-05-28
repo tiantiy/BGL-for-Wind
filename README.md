@@ -19,15 +19,15 @@ BGL_for_WindData.R
 ```
 
 ## Citation
-To cite the original [BGL distribution method paper](https://doi.org/10.1080/00949655.2014.917308):
+* To cite the original [BGL distribution method paper](https://doi.org/10.1080/00949655.2014.917308):
 
 ```
 Oluyede, B. O., & Yang, T. (2015). A new class of generalized Lindley distributions with applications. *Journal of Statistical Computation and Simulation*, 85(10), 2072–2100. https://doi.org/10.1080/00949655.2014.917308
 ```
-Paper link: [https://doi.org/10.1080/00949655.2014.917308](https://doi.org/10.1080/00949655.2014.917308)
+Paper link: [https://doi.org/10.1080/00949655.2014.917308](https://doi.org/10.1080/00949655.2014.917308) \
 
 
-To cite our [BGL for wind speed paper](https://doi.org/10.1016/j.renene.2025.124216): 
+* To cite our [BGL for wind speed paper](https://doi.org/10.1016/j.renene.2025.124216): 
 ```
 Yang, T., & Chen, D. (2026). Beta-generalized Lindley distribution: A novel probability model for wind speed. *Renewable Energy*, 256, 124216. https://doi.org/10.1016/j.renene.2025.124216
 ```
